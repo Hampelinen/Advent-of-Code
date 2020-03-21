@@ -1,0 +1,11 @@
+E:\Repos\day02\day02\bin\Debug\netcoreapp3.1\day02.exe
+E:\Repos\day02\day02\bin\Debug\netcoreapp3.1\day02.deps.json
+E:\Repos\day02\day02\bin\Debug\netcoreapp3.1\day02.runtimeconfig.json
+E:\Repos\day02\day02\bin\Debug\netcoreapp3.1\day02.runtimeconfig.dev.json
+E:\Repos\day02\day02\bin\Debug\netcoreapp3.1\day02.dll
+E:\Repos\day02\day02\bin\Debug\netcoreapp3.1\day02.pdb
+E:\Repos\day02\day02\obj\Debug\netcoreapp3.1\day02.csprojAssemblyReference.cache
+E:\Repos\day02\day02\obj\Debug\netcoreapp3.1\day02.AssemblyInfoInputs.cache
+E:\Repos\day02\day02\obj\Debug\netcoreapp3.1\day02.AssemblyInfo.cs
+E:\Repos\day02\day02\obj\Debug\netcoreapp3.1\day02.dll
+E:\Repos\day02\day02\obj\Debug\netcoreapp3.1\day02.pdb
