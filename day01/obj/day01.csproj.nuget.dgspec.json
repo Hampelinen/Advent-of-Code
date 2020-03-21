@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Repos\\day01\\day01\\day01.csproj": {}
+    "E:\\Github\\Advent-of-Code\\day01\\day01.csproj": {}
   },
   "projects": {
-    "E:\\Repos\\day01\\day01\\day01.csproj": {
+    "E:\\Github\\Advent-of-Code\\day01\\day01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Repos\\day01\\day01\\day01.csproj",
+        "projectUniqueName": "E:\\Github\\Advent-of-Code\\day01\\day01.csproj",
         "projectName": "day01",
-        "projectPath": "E:\\Repos\\day01\\day01\\day01.csproj",
+        "projectPath": "E:\\Github\\Advent-of-Code\\day01\\day01.csproj",
         "packagesPath": "C:\\Users\\hampu\\.nuget\\packages\\",
-        "outputPath": "E:\\Repos\\day01\\day01\\obj\\",
+        "outputPath": "E:\\Github\\Advent-of-Code\\day01\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hampu\\AppData\\Roaming\\NuGet\\NuGet.Config",

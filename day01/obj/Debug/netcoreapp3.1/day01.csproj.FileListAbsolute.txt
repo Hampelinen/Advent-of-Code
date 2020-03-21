@@ -9,3 +9,14 @@ E:\Repos\day01\day01\obj\Debug\netcoreapp3.1\day01.AssemblyInfoInputs.cache
 E:\Repos\day01\day01\obj\Debug\netcoreapp3.1\day01.AssemblyInfo.cs
 E:\Repos\day01\day01\obj\Debug\netcoreapp3.1\day01.dll
 E:\Repos\day01\day01\obj\Debug\netcoreapp3.1\day01.pdb
+E:\Github\Advent-of-Code\day01\bin\Debug\netcoreapp3.1\day01.exe
+E:\Github\Advent-of-Code\day01\bin\Debug\netcoreapp3.1\day01.deps.json
+E:\Github\Advent-of-Code\day01\bin\Debug\netcoreapp3.1\day01.runtimeconfig.json
+E:\Github\Advent-of-Code\day01\bin\Debug\netcoreapp3.1\day01.runtimeconfig.dev.json
+E:\Github\Advent-of-Code\day01\bin\Debug\netcoreapp3.1\day01.dll
+E:\Github\Advent-of-Code\day01\bin\Debug\netcoreapp3.1\day01.pdb
+E:\Github\Advent-of-Code\day01\obj\Debug\netcoreapp3.1\day01.csprojAssemblyReference.cache
+E:\Github\Advent-of-Code\day01\obj\Debug\netcoreapp3.1\day01.AssemblyInfoInputs.cache
+E:\Github\Advent-of-Code\day01\obj\Debug\netcoreapp3.1\day01.AssemblyInfo.cs
+E:\Github\Advent-of-Code\day01\obj\Debug\netcoreapp3.1\day01.dll
+E:\Github\Advent-of-Code\day01\obj\Debug\netcoreapp3.1\day01.pdb
